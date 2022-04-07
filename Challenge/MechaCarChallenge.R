@@ -17,6 +17,7 @@ lot_summary <- Suspension_Coil_table %>%
 lot_summary_df <- data.frame(lot_summary)
 print(lot_summary_df)
 
+# Deliverable 3
 t.test(Suspension_Coil_table$PSI,mu = 1500)
 
 t.test(subset(Suspension_Coil_table, Manufacturing_Lot=="Lot1")$PSI,mu = 1500)
