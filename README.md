@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-
+This project analyzes the MechaCar dataset with Linear Regression to predict MPG, summary of suspension coils, t-test of suspension coil by manufacturing lot and a proposed statistical study of city fuel efficiency of MechaCar versus the competition. The statistical tests were perform in R using RStudio.
 
 ## Deliverable 1
 ### Linear Regression to Predict MPG
